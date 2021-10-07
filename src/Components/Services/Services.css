@@ -1,0 +1,13 @@
+.effect{
+    width: 100p%;
+}
+
+.effect img{
+    width: 100px;
+}
+
+.effect:hover{
+    box-shadow: 5px 10px 18px #888888;
+}
+
+

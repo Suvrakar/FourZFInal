@@ -1,0 +1,58 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+  html, body {
+    height: 100vh;
+    width: 100vw;
+  }
+
+  body {
+    position: relative;
+    width: 100vw;
+  }
+  
+  .wrap {
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .wrap .bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background: url("truck.png");
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+    transform: scale(1.1);
+  }
+
+.Heroimg img{
+    width: 100%;
+    height: 500px;
+}
+
+.Heroimg{
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    
+}
+
+.blue{
+    background-color:  #022644 !important;
+    border: #022644 !important; 
+}
+
+.allText{
+    padding: 30px;
+}

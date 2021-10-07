@@ -1,0 +1,13 @@
+body{
+    overflow-x: hidden;
+}
+
+.nostyle{
+    text-decoration: none !important;
+    color: black;
+  }
+  
+  .nostyle:hover{
+    text-decoration: none !important;
+    color: black;
+  }

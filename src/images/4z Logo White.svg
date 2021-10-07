@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126.586" height="130.076" viewBox="0 0 126.586 130.076">
+  <g id="Group_131" data-name="Group 131" transform="translate(-60 -40)">
+    <path id="Path_37" data-name="Path 37" d="M58.23,65.973V56.087l5.1-2.73h6.425v1.307l-4.246,3.183L127.489,28.31a3.1,3.1,0,0,1,2.576,3.73L69.692,60.5l-.047,2.909-4.639,2.563Z" transform="translate(12.428 11.69)" fill="#fff"/>
+    <path id="Path_38" data-name="Path 38" d="M97.213,70.357,92.3,72.732V65.44l4.913-4.99Z" transform="translate(-7.088 -6.72)" fill="#fff"/>
+    <path id="Path_39" data-name="Path 39" d="M92.8,102.541l4.913-2.371v9.787L92.8,117.151Z" transform="translate(-7.374 -29.471)" fill="#fff"/>
+    <path id="Path_40" data-name="Path 40" d="M109.98,96.63l2.568-.97v11.107H109.98Z" transform="translate(-17.214 -26.888)" fill="#fff"/>
+    <path id="Path_41" data-name="Path 41" d="M110.15,74.573l2.482-1.183-.021-2.687-2.461-.662Z" transform="translate(-17.312 -12.213)" fill="#fff"/>
+    <rect id="Rectangle_52" data-name="Rectangle 52" width="0.713" height="24.487" transform="translate(135.948 46.203)" fill="#fff"/>
+    <rect id="Rectangle_53" data-name="Rectangle 53" width="0.713" height="24.487" transform="translate(139.327 44.84)" fill="#fff"/>
+    <path id="Path_42" data-name="Path 42" d="M206.8,98.853l3.973-2.183h3.819v5.942l-2.76,1.546v3.123h-1.82v-4.917l-1.059,2.153-2.153.021Z" transform="translate(-72.672 -27.466)" fill="#fff"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="1.03" cy="1.03" r="1.03" transform="translate(136.153 79.089)" fill="#fff"/>
+    <path id="Path_43" data-name="Path 43" d="M188.87,121.51h27.768V127.3L193.125,156.1h18.532l.064-6.382,4.584.013-.009,10.6H188.55v-5.618L211.6,125.94l-18.088.021v6.575l-4.686.043Z" transform="translate(-62.219 -41.694)" fill="#fff"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="3.016" cy="2.388" rx="3.016" ry="2.388" transform="translate(135.085 80.559)" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <text id="INTERNATIONAL" transform="translate(131.586 135.705)" fill="#fff" font-size="7" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">INTERNATIONAL</tspan></text>
+    <text id="LTD" transform="translate(180.586 142.284)" fill="#fff" font-size="3" font-family="Cambria-Bold, Cambria" font-weight="700"><tspan x="0" y="0">LTD</tspan></text>
+    <path id="Path_44" data-name="Path 44" d="M89.865,189.341h12.372V174.623c-3.02,0-5.913,0-8.809,0-2.632,0-3.469-.837-3.486-3.52-.021-3.742-.009-7.485-.026-11.227-.013-2.162-.572-2.73-2.781-2.7q-6.229.1-12.462.261c-2.38.06-2.845.564-2.858,3.012-.013,3.8-.034,7.6-.013,11.4.009,1.658-.8,2.709-2.392,2.734-5.332.085-10.663.034-16.413.034,10.394-16.687,20.608-33.087,31-49.761-6.357,0-13.312-.03-19.3.047-.2.355-.3.538-.632,1.085-2.982,4.571-5.908,9.176-8.83,13.786q-10.663,16.834-21.3,33.685c-.278.44-.342.59-.619,1.077-.047,4.733-.03,9.826-.03,14.786H71.7v8.382H63.237v15.713a6.055,6.055,0,0,0,2.059.265c11.342-.06,22.689-.03,34.031-.043.235,0,1.538-.021,1.777-.043V197.722H89.861v-8.382Zm-2.491-16.61H74.622V159.744H87.375Z" transform="translate(26.717 -43.611)" fill="#fff"/>
+    <rect id="Rectangle_54" data-name="Rectangle 54" width="12.752" height="12.987" transform="translate(101.344 116.133)" fill="#fff" opacity="0"/>
+  </g>
+</svg>

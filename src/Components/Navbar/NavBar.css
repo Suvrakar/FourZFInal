@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.MainLogo img{
+    width: 80px;
+}
+
+/* .stripe{
+    height: 20px ;
+    width: 45px ;
+    background: transparent;
+    position: absolute;
+    left: 20%;
+    top: 25%;
+    transform: translate(-10%,-10%);
+    animation-timing-function: linear;
+
+} */
+
+
+
+.test:hover .stripe{
+    height: 45px;
+    width: 3px;
+    background: rgb(3, 2, 56);
+    position: absolute;
+    left: 50%;
+    top: -90%;
+    
+}
+
+
+
+
+/* .stripe:hover{
+    height: 45px;
+    width: 3px;
+    background: rgb(3, 2, 56);
+    position: absolute;
+    left: 50%;
+    top: -90%;
+    transition-timing-function: ease;
+    z-index: 10000000;
+    animation-timing-function: linear;
+
+} */
+
+
+
+.mynav{
+    position: relative;
+}
+
+.p:active{
+    color: brown;
+}
+

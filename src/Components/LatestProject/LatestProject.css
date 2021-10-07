@@ -1,0 +1,70 @@
+.ProjectImg{
+    height: 100%;
+    width: 100%;
+}
+
+.ProjectImg img{
+    width: 100%;
+
+}
+
+.a{
+    overflow: hidden;
+}
+
+.c {
+    position: relative;
+    width: 100%;
+  }
+  
+
+.ourPrjct img{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5));
+}
+
+
+.image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+
+  .c:hover .image {
+    filter: brightness(50%);
+  }
+  
+  .c:hover .middle {
+    opacity: 1;
+  }
+
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .text {
+    color: white;
+    font-size: 30px;
+  }
+
+.blue{
+    background-color:  #022644 !important;
+    border: #022644 !important; 
+}
+
+.Elip{
+  white-space: nowrap; 
+  width: 400px; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+  font-size: medium;
+}
